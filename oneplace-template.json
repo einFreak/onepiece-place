@@ -2,55 +2,16 @@
   "contact": "chelmu on discord",
   "templates": [
     {
-      "name": "One Piece sogeking art",
+      "name": "One Piece Zorro Nothing Happened",
       "sources": [
-        "https://raw.githubusercontent.com/einFreak/onepiece-place/testing/templates/DevilFruits_v08.png"
+        "https://raw.githubusercontent.com/einFreak/onepiece-place/ZorroNothing/templates/Zorro_v03.png"
       ],
-      "x": 191,
-      "y": 637
-    },
-    {
-      "name": "One Piece gear 2 art",
-      "sources": [
-        "https://raw.githubusercontent.com/einFreak/onepiece-place/testing/templates/Gear2_v05.png"
-      ],
-      "x": 254,
-      "y": 635
-    },
-    {
-      "name": "One Piece ChibiChopper",
-      "sources": [
-        "https://raw.githubusercontent.com/einFreak/onepiece-place/testing/templates/ChibiChopper_v04.png"
-      ],
-      "x": 274,
-      "y": 618
-    },
-    {
-      "name": "One Piece AsCE art",
-      "sources": [
-        "https://raw.githubusercontent.com/einFreak/onepiece-place/testing/templates/AsCE_v04.png"
-      ],
-      "x": 241,
-      "y": 631
-    },
-    {
-      "name": "One Piece Nika art",
-      "sources": [
-        "https://raw.githubusercontent.com/einFreak/onepiece-place/testing/templates/nika_v06.png"
-      ],
-      "x": 1125,
-      "y": 625
+      "x": -867,
+      "y": -367
     }
   ],
   "whitelist": [
-    {
-      "name": "Uma Senko Template - Alliance via @Kariz",
-      "url": "http://ub8qbd.satdump.org/umasenko.json"
-    },
-    {
-      "name": "Oshi no ko Template - Alliance via @Kariz",
-      "url": "http://ub8qbd.satdump.org/oshinoko.json"
-    }
+
   ],
   "blacklist": []
 }
