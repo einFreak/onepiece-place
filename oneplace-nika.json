@@ -4,10 +4,18 @@
     {
       "name": "One Piece Nika art",
       "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/nika_v01.png"
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/nika_int_v08.png"
       ],
-      "x": 1125,
-      "y": 625
+      "x": 1625,
+      "y": 1125
+    },
+    {
+      "name": "Pusheen Hat art",
+      "sources": [
+        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/PusheenHat_v01.png"
+      ],
+      "x": 640,
+      "y": 278
     }
   ],
   "whitelist": [],
