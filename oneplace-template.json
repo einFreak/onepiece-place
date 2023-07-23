@@ -1,70 +1,10 @@
 {
-  "contact": "chelmu on discord",
-  "templates": [{
-      "name": "One Piece Zorro Nothing Happened",
-      "sources": [
-        "https://raw.githubusercontent.com/einFreak/onepiece-place/main/templates/Zorro_v06.png"
-      ],
-      "x": 133,
-      "y": 633
-    },
-    {
-      "name": "One Piece Nika art",
-      "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/nika_v09.png"
-      ],
-      "x": 1625,
-      "y": 1125
-    },
-    {
-      "name": "One Piece Shanks art",
-      "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/shanks_new_era_v03.png"
-      ],
-      "x": 0,
-      "y": 1331
-    },
-    {
-      "name": "One Piece 4 Yonkos art",
-      "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/4yonkos_v10.png"
-      ],
-      "x": 370,
-      "y": 209
-    },
-    {
-      "name": "Yeezy Bear art",
-      "sources": [
-        "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/templates/yeezy_bear_v01.png"
-      ],
-      "x": 469,
-      "y": 1854 
-    }
+  "contact": "einFreak on discord",
+  "templates": [
   ],
   "whitelist": [{
-      "name": "Oshi no ko Template - Alliance via @Kariz",
-      "url": "http://ub8qbd.satdump.org/waitroom.json"
-    },{
-      "name": "Bluey Community via @Hats Off!",
-      "url": "https://raw.githubusercontent.com/jalenluorion/helpme/main/bluey.json"
-    },{
-      "name": "French Template!",
-      "url": "https://sayrix.github.io/PlaceFR/overlay.json"
-    },{
-      "name": "ATLA Template!",
-      "url": "https://raw.githubusercontent.com/Lopeh/atla-place/main/atla-template.json"
-    },{
-      "name": "BurryIRL Template!",
-      "url": "https://gist.githubusercontent.com/Furryirlburner1/09ce4195fada18db6dc5e32e30a8e34b/raw"
-    },{
-      "name": "Femboy Template!",
-      "url": "https://pastebin.com/raw/ESaN3Csh"
-    },{
-      "name": "Pusheen et al Template!",
-      "url": "https://pastebin.com/raw/mDjcHCTn"
-    },{
-      "name": "Bersek Template!",
-      "url": "https://pastebin.com/raw/3AbTbzgp"
+      "name": "Original template from oneplace",
+      "url": "https://raw.githubusercontent.com/Lopeh/onepiece-place/main/oneplace-template.json"
     }
   ],
   "blacklist": []
